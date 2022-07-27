@@ -1,0 +1,8 @@
+metadata:
+  namespace: my-app
+replicaCount: 1
+
+containers:
+  image:
+    # account_id: 040500316512
+    region: eu-central-1
